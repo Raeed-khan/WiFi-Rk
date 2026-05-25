@@ -1,6 +1,6 @@
 <img width="2048" height="2048" alt="WifiSnare" src="https://github.com/user-attachments/assets/0c3a1ea6-dba0-428b-8f6c-3cedef2a88d2" />
 
-# WiGi-Rk
+# Developer by Raeed Khan (BBA Student UOB)
 A tool that captures 2.4GHz Wi-Fi passwords via Evil Twin attack.
 
 # ✨Features
